@@ -1,0 +1,5 @@
+-1|alice| I like apples!
+-1|bob| I like pears!
+0|charlie| Me too.
+1|charlie| cut the shit
+3|bob| get fucked
